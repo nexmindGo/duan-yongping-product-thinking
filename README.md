@@ -37,7 +37,7 @@ skill.zip
 在 GitHub 仓库页面点击 **Code**，复制仓库地址后执行：
 
 ```bash
-git clone <你的仓库地址>
+git clone https://github.com/nexmindGo/duan-yongping-product-thinking
 ```
 
 如果你使用 Claude Code、Codex 或其他 AI 编程 Agent，直接 Clone 仓库通常更方便。
